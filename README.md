@@ -37,9 +37,11 @@ ResponsiveBlogTemplate/
 ├── contact.html
 └── search.html
 
-file:///Users/rahulraj/Desktop/Screenshot%202024-10-15%20at%202.15.39%E2%80%AFPM.png
 
-file:///Users/rahulraj/Desktop/Screenshot%202024-10-15%20at%202.16.37%E2%80%AFPM.png
+<img width="1409" alt="Screenshot 2024-10-15 at 2 16 37 PM" src="https://github.com/user-attachments/assets/93b77e26-32f5-4a7a-9962-2f22497c5d53">
+
+<img width="1401" alt="Screenshot 2024-10-15 at 2 15 39 PM" src="https://github.com/user-attachments/assets/711793d3-0895-4794-a0be-c75d4e377b7b">
+
 
 
 Feel free to modify the README file according to your project's specifics or any additional features you might have implemented!
